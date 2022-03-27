@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "nodemon": "^2.0.15"
+  },
+  "name": "desafio-galeria-pokemones",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hans Contreras",
+  "license": "ISC",
+  "description": ""
+}
